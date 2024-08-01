@@ -1,5 +1,6 @@
 
 # Apple iPhone 15 Pro Website Clone
+#hosted link : <a href="https://apple-clone-vaithiyanathan.vercel.app">click  here !! </a>
 
 This project is a clone of Apple's iPhone 15 Pro website, developed using React.js and TailwindCSS. It showcases the use of GSAP (Greensock Animations) and Three.js for displaying the iPhone 15 Pro models in various colors and shapes.
 
@@ -14,7 +15,6 @@ This project is a clone of Apple's iPhone 15 Pro website, developed using React.
 
 You can view the live demo of the project at the following link:
 
-hosted link : <a href="https://apple-clone-vaithiyanathan.vercel.app">click  here !! </a>
 
 ## Screenshot
 
