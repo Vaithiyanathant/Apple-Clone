@@ -1,4 +1,3 @@
-hosted link : <a href="https://apple-clone-vaithiyanathan.vercel.app">click  here !! </a>
 
 # Apple iPhone 15 Pro Website Clone
 
@@ -15,7 +14,7 @@ This project is a clone of Apple's iPhone 15 Pro website, developed using React.
 
 You can view the live demo of the project at the following link:
 
-[Apple iPhone 15 Pro Clone](https://apple-clone-vaithiyanathan.vercel.app)
+hosted link : <a href="https://apple-clone-vaithiyanathan.vercel.app">click  here !! </a>
 
 ## Screenshot
 
